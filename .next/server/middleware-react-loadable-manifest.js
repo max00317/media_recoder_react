@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"index.tsx -> react-media-recorder":{"id":"index.tsx -> react-media-recorder","files":["static/chunks/node_modules_react-media-recorder_index_js.js"]}}
